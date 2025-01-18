@@ -1,13 +1,5 @@
-//
-// EA Studio Data Export
-// Copyright 2018, Forex Software Ltd.
-//
-// Use this script in MT5 to export historical files for Expert Advisor Studio
-// The files are saved in the MT5's \MQL5\Files folder with .json extension.
-// Drag and drop the files in the Tools -> Data Import drop box.
-//
 
-#property copyright "Forex Software Ltd."
+#property copyright "SALWAN.Ltd.Corp"
 #property version   "3.3"
 #property strict
 
